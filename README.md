@@ -35,7 +35,21 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 8. Jira
 	- [COURSE]https://www.udemy.com/course/learn-jira-complete-from-scratch-to-expert/
 		
+## Tech topics
+01. ISO 8583
+	- [ARTICLE] https://www.codeproject.com/Articles/100084/Introduction-to-ISO
+	- [ARTICLE] https://medium.com/plain-and-simple-series/all-things-tech-beautiful-iso-8583-an-introduction-plain-and-simple-21eb62455b28
 		
-		
-## Blogs I followed:
-1. [Automation] https://automationstepbystep.com/
+## Blogs/Websites worth following:
+01. [Automation] https://automationstepbystep.com/
+02. [QA THOUGHTS] http://testerstories.com/
+03. [TESTING] https://www.eviltester.com/
+04. [AUTOMATION] https://testguild.com/
+05. [TESTING] https://www.satisfice.com/
+06. [QA METHODOLOGY] https://searchsoftwarequality.techtarget.com/
+07. [QA] https://medium.com/tech-tajawal/tagged/qa
+08. [TESTING] https://testfort.com/
+09. [QA]http://kaner.com/
+10. [TESTING] https://www.developsense.com/index.html
+11. [TESTING] http://www.testingeducation.org/BBST/
+12. [ASSOCIATION] https://www.associationforsoftwaretesting.org/
