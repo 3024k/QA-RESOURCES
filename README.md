@@ -38,4 +38,4 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 		
 		
 ## Blogs I followed:
-1. [Purpose - Automation]: https://automationstepbystep.com/
+1. [Automation] https://automationstepbystep.com/
