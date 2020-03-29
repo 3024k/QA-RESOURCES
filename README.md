@@ -12,28 +12,30 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 ## Tools:
 
 1. Postman
-	- [TUTORIALS]https://www.toolsqa.com/postman-tutorial/
-	- [ARTICLES]https://www.cuelogic.com/blog/postman-tutorial-for-automation
+	- [TUTORIALS] https://www.toolsqa.com/postman-tutorial/
+	- [ARTICLES] https://www.cuelogic.com/blog/postman-tutorial-for-automation
 2. Jmeter
-	- [TUTORIALS]http://www.software-testing-tutorials-automation.com/p/apache-jmeter-tutorial-for-performance.html
-	- [COURSE]https://www.udemy.com/course/master-jmeter-from-basics-performance-load-api-testing/
+	- [TUTORIALS] http://www.software-testing-tutorials-automation.com/p/apache-jmeter-tutorial-for-performance.html
+	- [COURSE] https://www.udemy.com/course/master-jmeter-from-basics-performance-load-api-testing/
 3. Selenium
-	- [TUTORIALS]https://www.guru99.com/selenium-tutorial.html
+	- [TUTORIALS] https://www.guru99.com/selenium-tutorial.html
 4. Kafka
-	- [TUTORIALS]https://data-flair.training/blogs/apache-kafka-tutorial/
-	- [ARTICLES]https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
-	- [ARTICLES]https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302
-	- [ARTICLES]https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing
+	- [TUTORIALS] https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON
+	- [TUTORIALS] https://data-flair.training/blogs/apache-kafka-tutorial/
+	- [ARTICLES] https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
+	- [ARTICLES] https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302
+	- [ARTICLES] https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing
+	- [BOOK] https://www.pdfdrive.com/learning-apache-kafka-2nd-edition-start-from-scratch-and-learn-how-to-administer-apache-kafka-effectively-for-messaging-e167800256.html
 5. Zookeeper
-	- [TUTORIALS]https://data-flair.training/blogs/zookeeper-tutorial/
+	- [TUTORIALS] https://data-flair.training/blogs/zookeeper-tutorial/
 6. Hubtel USSD Mocker
 	- https://github.com/hubtel/ussd-mocker
 		
 7. Rundeck
-	- [DOCUMENTATION]https://docs.rundeck.com/docs/tutorials/
+	- [DOCUMENTATION] https://docs.rundeck.com/docs/tutorials/
 		
 8. Jira
-	- [COURSE]https://www.udemy.com/course/learn-jira-complete-from-scratch-to-expert/
+	- [COURSE] https://www.udemy.com/course/learn-jira-complete-from-scratch-to-expert/
 		
 ## Tech topics
 01. ISO 8583
