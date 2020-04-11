@@ -25,6 +25,7 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 	- [ARTICLES] https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1
 	- [ARTICLES] https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302
 	- [ARTICLES] https://dzone.com/articles/a-quick-and-practical-example-of-kafka-testing
+	- [ARTICLES] https://www.jeevora.com/2019/11/18/publish-subscribe-messaging-systems/
 	- [BOOK] https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf
 	- [BOOK] https://www.pdfdrive.com/learning-apache-kafka-2nd-edition-start-from-scratch-and-learn-how-to-administer-apache-kafka-effectively-for-messaging-e167800256.html
 5. Zookeeper
