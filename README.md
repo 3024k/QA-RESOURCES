@@ -9,6 +9,20 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 2. Bug Advocacy
 	- https://www.pdfdrive.com/bug-advocacy-e100692712.html
 	
+## Testing Tutorials
+
+1. Exploratory Testing
+	- https://www.kaner.com/pdfs/QAIExploring.pdf
+	- http://kaner.com/pdfs/ExploringExploratoryTesting.pdf
+	- https://www.satisfice.com/exploratory-testing
+	- https://meu-solutions.com/effective-exploratory-testing-part-1-2/
+	- https://www.qualitestgroup.com/white-papers/introducing-exploratory-testing/
+	- https://blog.scottlogic.com/2019/11/18/talking-to-devs-about-testing.html
+	- http://tryqa.com/what-is-exploratory-testing-in-software-testing/
+	- https://techbeacon.com/app-dev-testing/exploratory-testing-techniques-finding-software-defects-using-creativity-diligence
+	- https://www.lambdatest.com/blog/exploratory-testing-all-about-discovery/
+	- https://www.ministryoftesting.com/dojo/lessons/three-digestible-diagrams-to-describe-exploratory-testing
+	- https://www.triopsys.nl/exploratory-testing/?lang=en
 ## Tools:
 
 1. Postman
@@ -57,3 +71,4 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 10. [TESTING] https://www.developsense.com/index.html
 11. [TESTING] http://www.testingeducation.org/BBST/
 12. [ASSOCIATION] https://www.associationforsoftwaretesting.org/
+13. [BLOG] https://blog.scottlogic.com/category/test.html
