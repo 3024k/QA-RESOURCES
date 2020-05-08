@@ -4,10 +4,8 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 
 ## Books:
 
-1. Lessons Learned in Software Testing
-	- https://www.pdfdrive.com/lessons-learned-in-software-testing-a-context-driven-approach-e187000108.html
-2. Bug Advocacy
-	- https://www.pdfdrive.com/bug-advocacy-e100692712.html
+1. [Lessons Learned in Software Testing](https://www.pdfdrive.com/lessons-learned-in-software-testing-a-context-driven-approach-e187000108.html)
+2. [Bug Advocacy](https://www.pdfdrive.com/bug-advocacy-e100692712.html)
 	
 ## Testing Tutorials
 
