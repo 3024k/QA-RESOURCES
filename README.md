@@ -6,31 +6,43 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 
 1. [Lessons Learned in Software Testing](https://www.pdfdrive.com/lessons-learned-in-software-testing-a-context-driven-approach-e187000108.html)
 2. [Bug Advocacy](https://www.pdfdrive.com/bug-advocacy-e100692712.html)
+
+## Courses:
+1. [[Coursera - Specialization] Software Development Lifecycle - University of Minnesota](https://www.coursera.org/specializations/software-development-lifecycle)
+2. [[Coursera - Specialization] Software Testing and Automation Specialization - University of Minnesota (https://www.coursera.org/specializations/software-testing-automation)
+3. [[Coursera - Course] Continuous Delivery & DevOps - University of Virginia](https://www.coursera.org/specializations/software-testing-automation)
+
 	
 ## Testing Tutorials
 
 1. Exploratory Testing
-	- https://www.kaner.com/pdfs/QAIExploring.pdf
-	- http://kaner.com/pdfs/ExploringExploratoryTesting.pdf
-	- https://www.satisfice.com/exploratory-testing
-	- https://meu-solutions.com/effective-exploratory-testing-part-1-2/
-	- https://www.qualitestgroup.com/white-papers/introducing-exploratory-testing/
-	- https://blog.scottlogic.com/2019/11/18/talking-to-devs-about-testing.html
-	- http://tryqa.com/what-is-exploratory-testing-in-software-testing/
-	- https://techbeacon.com/app-dev-testing/exploratory-testing-techniques-finding-software-defects-using-creativity-diligence
-	- https://www.lambdatest.com/blog/exploratory-testing-all-about-discovery/
-	- https://www.ministryoftesting.com/dojo/lessons/three-digestible-diagrams-to-describe-exploratory-testing
-	- https://www.triopsys.nl/exploratory-testing/?lang=en
+	- [A Tutorial in Exploratory Testing - By Cam Kaner](https://www.kaner.com/pdfs/QAIExploring.pdf)
+	- [Exploratory Testing - James Bach](https://www.satisfice.com/exploratory-testing)
+	- [Effective Exploratory Testing (Part 1): Some good practices](https://meu-solutions.com/effective-exploratory-testing-part-1-2/)
+	- [Introducing Exploratory Testing](https://www.qualitestgroup.com/white-papers/introducing-exploratory-testing/)
+	- [Why I'm talking to developers about Exploratory Testing](https://blog.scottlogic.com/2019/11/18/talking-to-devs-about-testing.html)
+	- [What is Exploratory testing in software testing? Examples, When/How to do, Agile](http://tryqa.com/what-is-exploratory-testing-in-software-testing/)
+	- [Exploratory testing techniques: Finding software defects using creativity and diligence](https://techbeacon.com/app-dev-testing/exploratory-testing-techniques-finding-software-defects-using-creativity-diligence)
+	- [Three Digestible Diagrams to Describe Exploratory Testing](https://www.ministryoftesting.com/dojo/lessons/three-digestible-diagrams-to-describe-exploratory-testing)
+	
 ## Tools:
 
 1. Postman
-	- [TUTORIALS] https://www.toolsqa.com/postman-tutorial/
-	- [ARTICLES] https://www.cuelogic.com/blog/postman-tutorial-for-automation
+	- [TUTORIALS] [Easy Postman Tutorial for Beginners - By toolsqa](https://www.toolsqa.com/postman-tutorial/)
+	- [ARTICLES] [Postman Tutorial for Automation : All you need to know](https://www.cuelogic.com/blog/postman-tutorial-for-automation)
 2. Jmeter
-	- [TUTORIALS] http://www.software-testing-tutorials-automation.com/p/apache-jmeter-tutorial-for-performance.html
-	- [COURSE] https://www.udemy.com/course/master-jmeter-from-basics-performance-load-api-testing/
+	- [TUTORIALS] [Jmeter Tutorial](http://www.software-testing-tutorials-automation.com/p/apache-jmeter-tutorial-for-performance.html)
+	- [COURSE] [Master JMeter from Basics (Performance + Load + API Testing)](https://www.udemy.com/course/master-jmeter-from-basics-performance-load-api-testing/)
+	- [COURSE] [JMeter™ Intro, JMeter™ Pro](https://www.blazemeter.com/university/)
+	
 3. Selenium
 	- [TUTORIALS] https://www.guru99.com/selenium-tutorial.html
+	- https://javabeginnerstutorial.com/selenium/selenium-tutorial/
+	- https://artoftesting.com/selenium-tutorial
+	- https://www.youtube.com/watch?v=Jdkrj2lDAEY
+	- [Selenium Tutorial - by toolsqa](https://www.toolsqa.com/selenium-tutorial/)
+	- [Selenium Tutorial – Learn Selenium from Experts](https://intellipaat.com/blog/tutorial/selenium-tutorial/)
+	
 4. Kafka
 	- [TUTORIALS] https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON
 	- [TUTORIALS] https://data-flair.training/blogs/apache-kafka-tutorial/
