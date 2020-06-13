@@ -9,7 +9,7 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 
 ## Courses:
 1. [[Coursera - Specialization] Software Development Lifecycle - University of Minnesota](https://www.coursera.org/specializations/software-development-lifecycle)
-2. [[Coursera - Specialization] Software Testing and Automation Specialization - University of Minnesota (https://www.coursera.org/specializations/software-testing-automation)
+2. [[Coursera - Specialization] Software Testing and Automation Specialization - University of Minnesota](https://www.coursera.org/specializations/software-testing-automation)
 3. [[Coursera - Course] Continuous Delivery & DevOps - University of Virginia](https://www.coursera.org/specializations/software-testing-automation)
 
 	
