@@ -2,10 +2,19 @@
 
 Here I'll enlist the books, tutorials, articles or courses I've followed or following or will follow to master over the projects in my job. You can follow these to build a solid ground.In my opinion these are the detailed, free knowledge resources to learn.
 
+## Topics:
+* [Books](#books)
+* [Courses](#courses)
+* [Blogs](#blogs)
+* [Testing Tutorials](#testing-tutorials)
+* [Tools](#tools)
+* [Tech topics](#tech-topics)
+
 ## Books:
 
 1. [Lessons Learned in Software Testing](https://www.pdfdrive.com/lessons-learned-in-software-testing-a-context-driven-approach-e187000108.html)
 2. [Bug Advocacy](https://www.pdfdrive.com/bug-advocacy-e100692712.html)
+
 
 ## Courses:
 1. [[Coursera - Specialization] Software Development Lifecycle - University of Minnesota](https://www.coursera.org/specializations/software-development-lifecycle)
@@ -63,12 +72,8 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 8. Jira
 	- [COURSE] https://www.udemy.com/course/learn-jira-complete-from-scratch-to-expert/
 		
-## Tech topics
-01. ISO 8583
-	- [ARTICLE] https://www.codeproject.com/Articles/100084/Introduction-to-ISO
-	- [ARTICLE] https://medium.com/plain-and-simple-series/all-things-tech-beautiful-iso-8583-an-introduction-plain-and-simple-21eb62455b28
 		
-## Blogs/Websites worth following:
+## Blogs:
 01. [Automation] https://automationstepbystep.com/
 02. [QA THOUGHTS] http://testerstories.com/
 03. [TESTING] https://www.eviltester.com/
@@ -82,3 +87,11 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 11. [TESTING] http://www.testingeducation.org/BBST/
 12. [ASSOCIATION] https://www.associationforsoftwaretesting.org/
 13. [BLOG] https://blog.scottlogic.com/category/test.html
+
+
+## Tech topics
+01. ISO 8583
+	- [ARTICLE] https://www.codeproject.com/Articles/100084/Introduction-to-ISO
+	- [ARTICLE] https://medium.com/plain-and-simple-series/all-things-tech-beautiful-iso-8583-an-introduction-plain-and-simple-21eb62455b28
+
+
