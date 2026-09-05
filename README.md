@@ -73,6 +73,9 @@ Here I'll enlist the books, tutorials, articles or courses I've followed or foll
 	- [COURSE] https://www.udemy.com/course/learn-jira-complete-from-scratch-to-expert/
 		
 		
+9. Agent QA
+	- [DOCUMENTATION] [Agent QA quickstart](https://vostride.com/docs/agent-qa/quickstart) - Free guide to setting up natural-language web and mobile tests. The software is source-available under FSL-1.1-ALv2; model and infrastructure costs are separate.
+
 ## Blogs:
 01. [Automation] https://automationstepbystep.com/
 02. [QA THOUGHTS] http://testerstories.com/
